@@ -48,10 +48,19 @@
                                     </svg>
                                 </div>
 
-                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Documentation</h2>
+                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Elvis David Quinteros Siles</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                    Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+                                    ¡Hola a todos! Mi nombre es [Tu Nombre] y soy desarrollador fullstack. Estoy emocionado de tener la oportunidad de presentarme ante ustedes y compartir un poco sobre mi trayectoria profesional y mis habilidades.
+
+Experiencia y Habilidades
+Como desarrollador fullstack, tengo experiencia en trabajar con tecnologías tanto del lado del cliente como del servidor. Algunas de las tecnologías y herramientas con las que estoy familiarizado incluyen:
+
+Frontend: HTML, CSS, JavaScript, React, Angular, Vue.js.
+Backend: Node.js, Express, Django, Ruby on Rails.
+Bases de Datos: MySQL, PostgreSQL, MongoDB.
+DevOps: Docker, Kubernetes, CI/CD, AWS, Azure.
+Otras Herramientas: Git, GitHub, VSCode, Webpack.
                                 </p>
                             </div>
 
